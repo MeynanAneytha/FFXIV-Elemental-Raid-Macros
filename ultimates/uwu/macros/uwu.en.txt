@@ -4,7 +4,7 @@
 　　Garuda: mid, Party: SE
 　　MT：N > W > S
 　　ST：E > S > W
-【Mesohigh Tethers】West: ST, East: D4 
+【Mesohigh Tethers】West: ST, East: D4
 【Limit Break】Healer
 ―《Ifrit》――――――――――――――――――――
 【Opener】ST tanks (Invuln first 3x Incinerates)

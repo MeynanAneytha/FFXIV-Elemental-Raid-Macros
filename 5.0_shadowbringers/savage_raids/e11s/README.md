@@ -16,7 +16,7 @@ The two are effectively identical if doing the Hobolala strat for Sundered Sky. 
 
 ### Things to check on Party Finder
 
-Where all the tethers/prey markers go. Most of the time, Fire goes behind, while Lightning and Holy are resolved in front. 
+Where all the tethers/prey markers go. Most of the time, Fire goes behind, while Lightning and Holy are resolved in front.
 
 ### Approximate milestones
 
@@ -64,7 +64,7 @@ As there are a number of attacks in this fight that do not have a clearly associ
 **Shining Blade** - Burnt Strike (Holy) : Baited Light AoE puddles
 **Sinsight** - Elemental Break (Holy) : Tank/healer shared cleaves
 **Sinsmite** - Elemental Break (Lightning) : AoE damage on each player
-**Sinsmoke** - Elemental Break (Fire) + Bound of Faith (Fire) : Shared AoE damage 
+**Sinsmoke** - Elemental Break (Fire) + Bound of Faith (Fire) : Shared AoE damage
 
 ## Sundered Sky "Hobo Lala" strat (堕獄絶技 ほぼララ式)
 

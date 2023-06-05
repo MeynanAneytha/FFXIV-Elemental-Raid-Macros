@@ -47,12 +47,12 @@ You also want to mark the two healers for stacks.
 An easy way to resolve the 5-heads mechanic is:
 
 1. From the third donut, determine whether your current quadrant will be cleaved by the center head:
-	- If it **will** get cleaved, cross over diagonally to the opposite quadrant.
-	- If it **won't** get cleaved, stay in your current quadrant.
+    - If it **will** get cleaved, cross over diagonally to the opposite quadrant.
+    - If it **won't** get cleaved, stay in your current quadrant.
 2. Check the number of rings in your current quadrant:
-	- If it is **odd**, stay in your current quadrant.
-	- If it is **even**, move to the other quadrant that won't get cleaved by the center head.
-	
+    - If it is **odd**, stay in your current quadrant.
+    - If it is **even**, move to the other quadrant that won't get cleaved by the center head.
+
 ![](images/five_head.jpg)
 *(Credit: [Nukemaru](https://twitter.com/nukemarugames/status/1514278676359446528?s=20&t=olONmsjUl90VIwjrZNqbtQ))*
 

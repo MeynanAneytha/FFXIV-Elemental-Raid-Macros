@@ -1,7 +1,7 @@
 【Dark Eruption】【After Single Apoc】【Int. Relativity】
 　　　　MT　　　　　MT　ST　　　　　　　D3  MT  D4
 　　D1  ▲  D2　　　　　▲　　　　　　 　　H1   ▲   H2
-　  D3　ST　D4　　　D1　D2　D4　　　　D1   ST   D2 
+　  D3　ST　D4　　　D1　D2　D4　　　　D1   ST   D2
 　　  H1　H2　　　　　  H1　H2　　　　　　　
 　　　　　　　　　　　　　 D3　※Healer/ranged adjust based on AoE direction
 【Basic Relativity】 Yellow lights = 12 o'clock

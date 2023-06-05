@@ -33,15 +33,15 @@ In particular, the MT should be first in aggro, while the ST should be second. T
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Ultima applies Vicious Aetheroplasm in a small AoE around the player who is highest in hate (which should be the MT).</p><p><ul><li><b>MT:</b> Split away from the party as anyone nearby will also get a Vicious Aetheroplasm debuff.</li></ul></p></td>
-	<td><img src="../images/predation/predation_01.jpg"></td>
+    <td><img src="../images/predation/predation_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Ultima Weapon then turns to the player who is second in hate (which should be the ST) and targets them for Homing Lasers, which is a heavy AoE tankbuster.</p><p><ul><li><b>MT:</b> After receiving the Vicious Aetheroplasm debuff, stack with the party.</li></ul></p></td>
-	<td><img src="../images/predation/predation_02.jpg"></td>
+    <td><img src="../images/predation/predation_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> The Vicious Aetheroplasm debuff expires, dealing split damage shared by the party.</p></td>
-	<td><img src="../images/predation/predation_03.jpg"></td>
+    <td><img src="../images/predation/predation_03.jpg"></td>
   </tr>
 </table>
 
@@ -67,25 +67,25 @@ To dodge all the other Primals' mechanics, one easy trick is to observe there ar
 Resolve Ultimate Predation as follows:
 
 1. Move to the quadrant diagonally opposite Garuda.
-2. Be away from Titan.
-3. Move away from Ultima.
+1. Be away from Titan.
+1. Move away from Ultima.
 
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Ultima Weapon disappears and will reappear with all the Primals.</p><p>Identify Garuda, and move to the quadrant diagonally opposite.</p></td>
-	<td><img src="../images/predation/predation_4_safe_01.jpg"></td>
+    <td><img src="../images/predation/predation_4_safe_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> First set of AoEs resolve.</p><p><em>(Green crosses mark the 4th rune.)</em></p></td>
-	<td><img src="../images/predation/predation_4_safe_02.jpg"></td>
+    <td><img src="../images/predation/predation_4_safe_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Second set of AoEs resolve.</p><p><em>(Green crosses mark the 4th rune.)</em></p></td>
-	<td><img src="../images/predation/predation_4_safe_03.jpg"></td>
+    <td><img src="../images/predation/predation_4_safe_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> The bosses then disappear, ending the mechanic.</p><p><em>(Bait and dodge Feather Rains)</em></p></td>
-	<td><img src="../images/predation/predation_4_safe_04.jpg"></td>
+    <td><img src="../images/predation/predation_4_safe_04.jpg"></td>
   </tr>
 </table>
 
@@ -94,19 +94,19 @@ Resolve Ultimate Predation as follows:
 <table>
   <tr>
     <td><p><b>1.</b> Ultima Weapon disappears and will reappear with all the Primals.</p><p>Identify Garuda, and move to the quadrant diagonally opposite.</p></td>
-	<td><img src="../images/predation/predation_3_safe_01.jpg"></td>
+    <td><img src="../images/predation/predation_3_safe_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> First set of AoEs resolve.</p><p><em>(Green crosses mark the 4th rune.)</em></p></td>
-	<td><img src="../images/predation/predation_3_safe_02.jpg"></td>
+    <td><img src="../images/predation/predation_3_safe_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Second set of AoEs resolve. Notice Ultima's position eliminates one of the four positions.</p><p><em>(Green crosses mark the 4th rune.)</em></p></td>
-	<td><img src="../images/predation/predation_3_safe_03.jpg"></td>
+    <td><img src="../images/predation/predation_3_safe_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> The bosses then disappear, ending the mechanic.</p><p><em>(Bait and dodge Feather Rains)</em></p></td>
-	<td><img src="../images/predation/predation_3_safe_04.jpg"></td>
+    <td><img src="../images/predation/predation_3_safe_04.jpg"></td>
   </tr>
 </table>
 </details>

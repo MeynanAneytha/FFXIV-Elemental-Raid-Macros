@@ -35,5 +35,5 @@ The item level cap for Eden's Promise is **iLvl 535**.
 - **E10S** - [Eden's Promise: Litany (Savage)](e10s/README.md)
 - **E11S** - [Eden's Promise: Anamorphosis (Savage)](e11s/README.md)
 - **E12S** - Eden's Promise: Eternity (Savage)
-	- [Part 1](e12s_1/README.md)
-	- [Part 2](e12s_2/README.md)
+    - [Part 1](e12s_1/README.md)
+    - [Part 2](e12s_2/README.md)

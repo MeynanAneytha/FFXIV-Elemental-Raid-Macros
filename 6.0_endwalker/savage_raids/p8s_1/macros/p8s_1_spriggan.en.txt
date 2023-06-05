@@ -27,4 +27,4 @@
 　　D1　H2　　　Nothing：N/W→T/H　S/E→DPS
 ■ Tetraflare/Diflare
 　Tetraflare：(Boss)MT/D1>ST/D2>H1/D3>H2/D4
-　Diflare：(Boss)MTH1D1D2>STH2D3D4 
+　Diflare：(Boss)MTH1D1D2>STH2D3D4

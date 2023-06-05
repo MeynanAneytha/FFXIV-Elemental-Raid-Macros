@@ -76,7 +76,7 @@ There are three main ways of doing this-
 - **アーサー/"Arthars' strat"/"KB Uptime strat"**: Arm's Length/Surecast both knockbacks. Surecast timing is tight; screwing it up will get you tossed off the arena.
 
   - Twitch clip: [video](https://clips.twitch.tv/InquisitiveCheerfulClamHassanChop)
-  - JP explanation: [video](https://youtu.be/hCiDNU6pIxk)  
+  - JP explanation: [video](https://youtu.be/hCiDNU6pIxk)
 
 - **赤固定:/"Fixed at red"**: Party moves towards the red mirror and uses Arm's Length/Surecast. Party will get knocked back on the third Wings. Safest, but less uptime compared to Arthas'.
 
@@ -84,7 +84,7 @@ There are three main ways of doing this-
 
 ## Final Akh Morns/最終のアク・モーン
 
-D2 and D3 will need to swap Akh Morn stacks if both reds or both blues are on the same side. Oftentimes, this is done after the first (5-hit) Akh Morn, but it is sometimes done before. 
+D2 and D3 will need to swap Akh Morn stacks if both reds or both blues are on the same side. Oftentimes, this is done after the first (5-hit) Akh Morn, but it is sometimes done before.
 
 ## Timeline
 

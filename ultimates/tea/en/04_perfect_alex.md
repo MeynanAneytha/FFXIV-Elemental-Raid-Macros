@@ -96,7 +96,7 @@ While the Forced March timers tick down, Perfect Alexander will then cast *eithe
 <table>
   <tr>
     <td width="50%"><b>Forced March:</b><ul><li><b>Light Beacon:</b> West</li><li><b>Dark Beacon:</b> East</li><li><b>Everyone else:</b> Just west of the Dark Beacon</li></ul></td>
-	<td><img src="../images/perfect_alex/forced_march_01.jpg"></td>
+    <td><img src="../images/perfect_alex/forced_march_01.jpg"></td>
   </tr>
 </table>
 
@@ -114,7 +114,7 @@ Then, Perfect Alexander will then do two simple stack vs. spread mechanics in a 
 <table>
   <tr>
     <td width="50%"><p>Two <b>random</b> players will be targeted with a stack marker.</p><p><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></p><p>If a group has two stack markers, only <em>one</em> moves to the other group, and resolve the groups 5-3.</p></td>
-	<td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
+    <td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
   </tr>
 </table>
 
@@ -198,7 +198,7 @@ The safe spots to resolve the mechanics will always be opposite one of the two *
 <table>
   <tr>
     <td width="50%"><b>Fate Calibration α:</b><ul><li><b>Shared Sentence:</b> Left</li><li><b>Nothing:</b> Left</li><li><b>Aggravated Assault:</b> Right</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_alpha.jpg"></td>
+    <td><img src="../images/perfect_alex/fate_calibration_alpha.jpg"></td>
   </tr>
 </table>
 
@@ -268,23 +268,23 @@ Once again, Perfect Alexander will disappear when Fate Calibration β finishes i
 <table>
   <tr>
     <td width="50%"><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_01.jpg"><img src="../images/perfect_alex/fate_calibration_beta/beta_positioning.jpg"></td>
+    <td><img src="../images/perfect_alex/fate_calibration_beta_01.jpg"><img src="../images/perfect_alex/fate_calibration_beta/beta_positioning.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> Forced March resolves.<ul><li><b>Light players + Dark with red/green:</b> Stack together north</li><li><b>Dark players (except red/green tether):</b> Move to the edge of the arena.</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_02.jpg"></td>
+    <td><img src="../images/perfect_alex/fate_calibration_beta_02.jpg"></td>
   </tr>
   <tr>
     <td><b>3.</b> Light Shared Sentence and Super Jump resolves.</td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_03.jpg"></td>
+    <td><img src="../images/perfect_alex/fate_calibration_beta_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b>Stack/Spread.</p><p>If Stacks:</p><ul><li><b>Light players:</b> Stack around mid</li><li><b>Dark players:</b> Stack south</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_04.jpg"></td>
+    <td><img src="../images/perfect_alex/fate_calibration_beta_04.jpg"></td>
   </tr>
   <tr>
     <td><b>5.</b> Radiant Sacrament resolves.</td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_05.jpg"></td>
+    <td><img src="../images/perfect_alex/fate_calibration_beta_05.jpg"></td>
   </tr>
 </table>
 

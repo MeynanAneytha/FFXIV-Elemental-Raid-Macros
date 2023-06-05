@@ -26,7 +26,7 @@ The following is [Game8's macro](https://game8.jp/ff14/480771) for the Nukehai s
 ```
 {% include_relative macros/p8s_2.jp.txt %}
  ```
- 
+
 ## English:
 
 The following is my interpretation of Game8's macro, with some parts edited to fit the chat window and for clarity.

@@ -34,8 +34,8 @@ The various phases can be broken down as follows:
 ## Things to note
 
 - There are edge cases to consider if you have a PLD or GNB and skipping Ifrit dashes are a possibility.
-	- If you **skip** Ifrit dashes, there is about **6:30** between Ifrit's *first* set of Incinerates and the Homing Lasers after Ultimate Predation (PLD cannot invuln both).
-	- If you **don't skip** Ifrit's dashes, there is about **5:40** between Ifrit's *second* set of Incinerates and the Homing Lasers after Ultimate Predation (GNB and PLD cannot invuln both).
+    - If you **skip** Ifrit dashes, there is about **6:30** between Ifrit's *first* set of Incinerates and the Homing Lasers after Ultimate Predation (PLD cannot invuln both).
+    - If you **don't skip** Ifrit's dashes, there is about **5:40** between Ifrit's *second* set of Incinerates and the Homing Lasers after Ultimate Predation (GNB and PLD cannot invuln both).
 - You can fix the tank invuln sequence in Ultima by choosing to tank swap Ifrit's second set of Incinerates instead of using the MT invuln there (although this isn't usually practiced).
 
 ## English

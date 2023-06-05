@@ -358,7 +358,7 @@ We decided to follow Kinda Awk's spread positions, which doesn't *quite* fit the
 <table>
   <tr><td><p>This is a matter of convenience- the interval between Delta and Sigma is a 2-minute window, and spending Living Dead here means fewer buttons to press during the burst window.</p></td></tr>
 </table>
-</details> 
+</details>
 <details markdown=block>
 <summary><b>[Delta (Awk)]</b> Is there a reason why blue tethers go opposite Final Omega instead of beside it, or is this an arbitrary choice?</summary>
 <table>

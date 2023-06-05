@@ -53,8 +53,8 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese
 
 - `ABCD` are for orientation, and for the transition stacks (if applicable).
 - `1234` are for:
-	- Resolving the "Limit Cut" dice during Darkened Fires
-	- Placing the eye thingies during Fledgling Flight.
+    - Resolving the "Limit Cut" dice during Darkened Fires
+    - Placing the eye thingies during Fledgling Flight.
 
 ![](images/markers.jpg)
 

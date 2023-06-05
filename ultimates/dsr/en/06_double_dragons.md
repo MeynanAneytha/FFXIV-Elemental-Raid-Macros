@@ -128,7 +128,7 @@ All passes happen in the center of the arena, except for the final pass after To
         <li><b>No tether:</b> Both dragons' HP is within 3%.</li>
         <li><b>Purple tether:</b> Nidhogg's HP is too high.</li>
         <li><b>White tether:</b> Hraesvelgr's HP is too high.</li>
-      </ul>  
+      </ul>
     </td>
     <td><img src="../images/double_dragons/akh_afah.jpg"></td>
   </tr>

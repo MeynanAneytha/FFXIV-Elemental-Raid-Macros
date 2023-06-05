@@ -48,7 +48,7 @@ DPS:
 ■■■■ P8 (Final Phase) ■■■■
 Final Punch
    1st: MT full buffs; 2nd: Invuln
-Hidden Mines: 
+Hidden Mines:
    Water DPS sacs, H2 raises
 MT baits Chakrams
    Enumeration: Boss front, everyone else behind

@@ -50,7 +50,7 @@ The exact orientation doesn't really matter, as long as the "pinwheel" shape is 
 
 Always dodge on the east side.
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">極エメのターミナスエストのやつが12回くらいやってこの4パターンしかなかった。<br>それと分離が同時に来る場合は、頭が分離する場合は全部十字のパターン、体が分離する場合は1つ目が内側十字パターンっぽい。(ちょっと頑張ったので上げておく)<br>間違ってたらスミマセン。 <a href="https://t.co/IBsNSSjE5S">pic.twitter.com/IBsNSSjE5S</a></p>&mdash; namina (@namina_ast) <a href="https://twitter.com/namina_ast/status/1336795566529888256?ref_src=twsrc%5Etfw">December 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">極エメのターミナスエストのやつが12回くらいやってこの4パターンしかなかった。<br>それと分離が同時に来る場合は、頭が分離する場合は全部十字のパターン、体が分離する場合は1つ目が内側十字パターンっぽい。(ちょっと頑張ったので上げておく)<br>間違ってたらスミマセン。 <a href="https://t.co/IBsNSSjE5S">pic.twitter.com/IBsNSSjE5S</a></p>&mdash; namina (@namina_ast) <a href="https://twitter.com/namina_ast/status/1336795566529888256?ref_src=twsrc%5Etfw">December 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## FAQ
 

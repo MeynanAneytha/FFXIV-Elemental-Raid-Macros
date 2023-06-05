@@ -1,2 +1,4 @@
 style '.mdl.rb'
+ignore_front_matter true
+allow_different_nesting true
 

@@ -135,7 +135,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
 - Tanks and Melee adjust:
     - If your tower needs **2 or more** players, **stay**.
     - Otherwise, adjust to the first tower that needs **more than 2** with the following priority:
-        
+
             cw > ccw > across
 
       Done correctly, **at most** two players will need to move.

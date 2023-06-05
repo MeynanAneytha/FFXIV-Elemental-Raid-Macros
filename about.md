@@ -21,7 +21,7 @@ Remember, the ultimate goal of PF macros is to get eight people who have never p
 
 **Tanks:**
 - Who MTs (main-tanks) and who STs (sub-tanks) generally follows this order:
-    
+
     **MT** : WAR > DRK > GNB > PLD : **ST**
 
 - You will often see English players call the ST the OT instead (off-tank).
@@ -58,7 +58,7 @@ Generally, PF recruitment will generally follow the following progression:
 - フリロ : "Free-lot". Basically roll Need/Greed on whatever you want.
 - 取り抜け : Take and drop. Everyone takes turns rolling on loot one at a time. Anyone who wins an item then drops from the instance (so everyone only gets 1 item at most).
 
-Oftentimes, this is "take and drop from the left" (左から取り抜け), but it's also common to explicitly list out an order for 4th floor raids, like "Weapon > Weapon coffer > Body coffer > Others" (武器＞武器箱＞胴箱＞他) 
+Oftentimes, this is "take and drop from the left" (左から取り抜け), but it's also common to explicitly list out an order for 4th floor raids, like "Weapon > Weapon coffer > Body coffer > Others" (武器＞武器箱＞胴箱＞他)
 
 ## Contributing
 

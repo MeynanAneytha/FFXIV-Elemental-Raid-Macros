@@ -14,7 +14,7 @@
 | MT group　　　　　MT group
 | 　ST group　　ST group
 -----------------------------------------------
-| ■ Operational Synergy: Synthetic Shield 
+| ■ Operational Synergy: Synthetic Shield
 | 　Shield spread+Debuff on 1 person→7 man stack in the middle
 | 　　→Fire spread→M Dynamo→M Chariot→Laser Shower
 | ■ Operational Synergy: Synthetic Blade

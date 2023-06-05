@@ -32,8 +32,8 @@ The item level cap for Deltascape is **iLvl 345**.
 - **O2S** - [Deltascape V2.0 (Savage)](savage_raids/o2s/README.md)
 - **O3S** - [Deltascape V3.0 (Savage)](savage_raids/o3s/README.md)
 - **O4S** - Deltascape V4.0 (Savage)
-	- [Part 1](savage_raids/o4s_1/README.md)
-	- [Part 2](savage_raids/o4s_2/README.md)
+    - [Part 1](savage_raids/o4s_1/README.md)
+    - [Part 2](savage_raids/o4s_2/README.md)
 
 ### Sigmascape (Patch 4.2)
 
@@ -43,8 +43,8 @@ The item level cap for Sigmascape is **iLvl 375**.
 - **O6S** - [Sigmascape V2.0 (Savage)](savage_raids/o6s/README.md)
 - **O7S** - [Sigmascape V3.0 (Savage)](savage_raids/o7s/README.md)
 - **O8S** - Sigmascape V4.0 (Savage)
-	- [Part 1](savage_raids/o8s_1/README.md)
-	- [Part 2](savage_raids/o8s_2/README.md)
+    - [Part 1](savage_raids/o8s_1/README.md)
+    - [Part 2](savage_raids/o8s_2/README.md)
 
 ### Alphascape (Patch 4.4)
 
@@ -54,8 +54,8 @@ The item level cap for Alphascape is **iLvl 405**.
 - **O10S** - [Alphascape V2.0 (Savage)](savage_raids/o10s/README.md)
 - **O11S** - [Alphascape V3.0 (Savage)](savage_raids/o11s/README.md)
 - **O12S** - Alphascape V4.0 (Savage)
-	- [Part 1](savage_raids/o12s_1/README.md)
-	- [Part 2](savage_raids/o12s_2/README.md)
+    - [Part 1](savage_raids/o12s_1/README.md)
+    - [Part 2](savage_raids/o12s_2/README.md)
 
 ## Ultimate
 

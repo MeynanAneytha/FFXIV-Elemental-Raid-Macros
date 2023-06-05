@@ -40,7 +40,7 @@ permalink: /5.0_shadowbringers/savage_raids/e7s/
 3. Move one column west to bait AoEs.
 4. Go back to east-most column.
    - If NW portal was **red**: Switch row, then switch row again after AoEs hit.
-   - If NW portal was **blue**: Stay on the same row all the way. 
+   - If NW portal was **blue**: Stay on the same row all the way.
 
 ## 1st Away with Thee
 

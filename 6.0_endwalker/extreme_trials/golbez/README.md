@@ -90,7 +90,7 @@ To get the FFO melee uptime variant, the groups for Terrastorm + Arctic Assault 
 
 Game8/Hamkatsu uses the following markers:
 
-- `ABCD` are for orientation. 
+- `ABCD` are for orientation.
 - The `1` marker in the middle is for the healer knockback position.
 ![](images/markers1.jpg)
 <details markdown=block>
@@ -103,7 +103,7 @@ Game8/Hamkatsu uses the following markers:
 
 You can use these markers instead:
 
-- `ABCD` are for orientation. 
+- `ABCD` are for orientation.
 - The `1234` markers demarcate the boundaries of the Gale Force line AoEs (markers are *not* safe), and players can stand on the markers to get knocked back to the towers.
 ![](images/markers2.jpg)
 <details markdown=block>

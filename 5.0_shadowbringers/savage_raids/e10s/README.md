@@ -27,7 +27,7 @@ Since tanks swap during this fight, check with your other tank whether MT for Um
 
 ## Markers
 
-The markers are just for orientation. The intercardinal markers also are indicators for the range of the AoE when the boss stands up. 
+The markers are just for orientation. The intercardinal markers also are indicators for the range of the AoE when the boss stands up.
 ![](images/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>

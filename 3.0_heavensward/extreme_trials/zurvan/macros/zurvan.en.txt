@@ -8,7 +8,7 @@
 Adds #1：MT→Will　ST→Thews
 Adds #2：Kill Wit → Wile → Wills (MT→N, ST→S)
 Adds #3：MT→Will　ST→Thew
-■ Southern Cross：Stack behind + Rotate CW 
+■ Southern Cross：Stack behind + Rotate CW
 　when cast finishes (MT goes CCW)
 ■ Wave Cannon：Take solo at the side
 ■ Broken Seal：Prepare one blue + one red

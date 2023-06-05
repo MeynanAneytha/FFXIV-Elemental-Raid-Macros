@@ -1,7 +1,7 @@
 【エラプ・基本散開】【シングル後散開】【破】北基準
 　　　MT　　　　　MT　ST　　　　　D3  MT  D4
 　D1  ▲  D2　　　　　▲　　　　　　 H1   ▲   H2
-  D3　ST　D4　　　D1　D2　D4　　D1   ST   D2 
+  D3　ST　D4　　　D1　D2　D4　　D1   ST   D2
 　  H1　H2　　　　　  H1　H2　　　　　　　
 　　　　　　　　　　　　 D3　※AoE回転方向によりヒラ遠隔のみ左右反転
 【序】黄砂時計を12時とする

@@ -79,7 +79,7 @@
 【Akh Afah】North：MT, H1, D1, D3
 　　　　　　　South：ST, H2, D2, D4
 【Hallowed Wings #1】MT → North　ST → South
-【Mortal Vow】(pass in mid except last) 
+【Mortal Vow】(pass in mid except last)
 　　DPS → MT → ST → (D1>D2) → D3
 【Wroth Flames】Spread → Nidhogg　
 　　　　　　　　　Stacks → Hraesvelgr

@@ -62,9 +62,9 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 
 **Limit Cut:**
 - `1234` divides the arena for Limit Cut
-	- If doing 1211, start from the first explosion on the non-marked side.
-	- If doing 1256, the 1256 group goes to the side without markers. The 3478 group goes to the side with markers.
-	
+    - If doing 1211, start from the first explosion on the non-marked side.
+    - If doing 1256, the 1256 group goes to the side without markers. The 3478 group goes to the side with markers.
+
 **Brute Justice + Cruise Chaser:**
 - `A`: 1st Water
 - `C`: 2nd Water

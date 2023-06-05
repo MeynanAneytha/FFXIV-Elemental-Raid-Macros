@@ -82,7 +82,7 @@ The "need to swap" configuration is identified by *either*
 - A red gem in the southern tile.
 - The top and bottom gems on the corner tiles are different colours.
 
-In this case, MT and D3 will need to swap tiles for the **third** set of gemstones. 
+In this case, MT and D3 will need to swap tiles for the **third** set of gemstones.
 
 ## Fourfold Shackles
 

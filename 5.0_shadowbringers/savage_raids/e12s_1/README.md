@@ -34,7 +34,7 @@ The standard PF strat takes [Idyll strat (イディル式)](http://kanatan.info/
 
 ## Markers
 
-There are two sets of markers used in PF, that are used for the Lions phase. 
+There are two sets of markers used in PF, that are used for the Lions phase.
 
 **English** parties will put markers centered on the circle patterns on the ground.
 
@@ -80,7 +80,7 @@ Explanation (Japanese): [video](https://youtu.be/hdLm1Q1BEWg?t=657)
 
 **Baiting big lions**: The second and third big lion baits should not be all the way at the edge of the arena. The center of the lion is just under two tiles away from the edge of the arena.
 
-If you go all the way to the edge of the arena to bait the second or third big lion, you are actually going further from the big lion, and the big lion will target the person standing at `A` or `C` instead. 
+If you go all the way to the edge of the arena to bait the second or third big lion, you are actually going further from the big lion, and the big lion will target the person standing at `A` or `C` instead.
 ![](images/akito_lions.jpg)
 
 ## Timeline

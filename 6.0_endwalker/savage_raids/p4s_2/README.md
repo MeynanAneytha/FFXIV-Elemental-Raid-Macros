@@ -73,23 +73,23 @@ Elemental uses the [Idyllshire Act 2 strat](https://youtu.be/1sfnBHXf2nA?t=278).
 <table>
   <tr>
     <td><p><b>1.</b> Break AoEs, break Dark tether</p><ul><li><b>Dark (no orb) Tank:</b> Always NW.</li><li><b>Dark Healer:</b> Always SE.</li><li><b>Fire DPS:</b> Identify your Fire partner and priority for later.</li><li><b>Everybody except Dark Tank/Healer:</b> Stack middle.</li></ul></td>
-	<td><img src="images/act_2_01.jpg"></td>
+    <td><img src="images/act_2_01.jpg"></td>
   </tr>
   <tr>
     <td><p><em>(The following diagrams assume the N/S towers will resolve first- rotate 90 degrees anti-clockwise if E/W towers will resolve first instead.)</em></p><p><b>2.</b> After baiting AoEs, everyone moves into position for the first set of mechanics.</p><ul><li>Dark Tank/Healer always get towers.</li><li>Fire Tank + Healer break their tether.</li></ul></td>
-	<td><img src="images/act_2_02.jpg"></td>
+    <td><img src="images/act_2_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> First set of mechanics resolve.</p></td>
-	<td><img src="images/act_2_03.jpg"></td>
+    <td><img src="images/act_2_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Everyone moves in for healing, then moves to prepare for the second set of mechanics:</p><ul><li><b>Healers:</b> Rotate <b>clockwise</b></li><li><b>Dark Tank:</b> Rotate <b>clockwise</b> to the next tower.</li><li><b>Fire Tank:</b> Rotate <b>anti-clockwise</b> to the next stack.</li><li><b>Fire DPS:</b> Break your tether.</li></ul><p>Everyone rotates clockwise <em>except</em> the Fire Tank and the Fire DPS in the following priority:</p><p>clockwise: D1 > D2 > D3 > D4: anti-clockwise</p></td>
-	<td><img src="images/act_2_04.jpg"></td>
+    <td><img src="images/act_2_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Second set of mechanics resolve.</p></td>
-	<td><img src="images/act_2_05.jpg"></td>
+    <td><img src="images/act_2_05.jpg"></td>
   </tr>
 </table>
 

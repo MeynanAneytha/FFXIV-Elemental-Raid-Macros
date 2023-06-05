@@ -43,7 +43,7 @@ The FFO strat resolves Gorgons 2 based on coloured markers. *Some* parties (part
 
 Some parties (particularly English groups) will do ["Spriggan Gorgons 2"](#spriggan-gorgons-fixed-positions) instead of the colour-coded style that Game8 proposes.
 
-## English 
+## English
 
 *(FFO strat, Spriggan Gorgons 2)*
 ```
@@ -130,7 +130,7 @@ This is the strat mostly preferred by Japanese parties.
 
 ### Spriggan Gorgons (fixed positions)
 
-This is the strat done by EN parties. *Some* Japanese parties also do this strat, but they call it "Fixed Snakes 2" instead (蛇2回目固定). 
+This is the strat done by EN parties. *Some* Japanese parties also do this strat, but they call it "Fixed Snakes 2" instead (蛇2回目固定).
 
 The advantage of Spriggan Gorgons is that player positions are all fixed for the first part of the mechanic.
 

@@ -20,7 +20,7 @@ Note: There are some details that are added in the macro, in particular, a DPS p
 - **Advanced Relativity**: The macro has D3 and D4 adjust in the event D1+D3 or D2+D4 have the same (non-Fire) debuffs. Some macros have D2 and D3 adjust instead.
   - Having D3 and D4 adjust means that each side is guaranteed to have one melee DPS, one ranged DPS so there's no confusion over Dark Fire spots.
   - Having D2 and D3 adjust keeps the standard based on past fights (e.g: E8S), but means that if a swap happens, there will be two melee on one side, and two ranged on the other, so the Dark Fire priorities get a little more complex.
-- **Terminal Relativity**: Check your party's mitigation plan. 
+- **Terminal Relativity**: Check your party's mitigation plan.
 
 ### Approximate milestones
 

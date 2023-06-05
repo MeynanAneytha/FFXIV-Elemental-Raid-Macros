@@ -52,11 +52,11 @@ The **MT** will take hate at the start of the fight.
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Have the <b>MT</b> tank Titan facing south, with the party North.</p><p>Titan opens with Earthern Fury (heavy raid damage), and start a Rock Buster→Mountain Buster sequence.</p><p>Mountain Buster is a particularly dangerous tankbuster because it is always preceeded with a Rock Buster.</p></td>
-	<td><img src="../images/titan/titan_01.jpg"></td>
+    <td><img src="../images/titan/titan_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Players then target targeted for two sets of baited Weight of the Land.</p><p>Simply stack together behind Titan to bait the first set, dodge left/right to bait the second set at the sides before coming back.</p><p>When the second set of Weight of the Lands explodes, Titan will quickly <b>turn to face a random cardinal direction</b> before jumping.</p></td>
-	  <td><img src="../images/titan/titan_02.jpg"></td>
+      <td><img src="../images/titan/titan_02.jpg"></td>
   </tr>
 </table>
 
@@ -65,19 +65,19 @@ The **MT** will take hate at the start of the fight.
 <table>
   <tr>
     <td width="50%"><p><b>3.</b> Move to the opposite side of where Titan faced before he jumped.</p></td>
-	  <td><img src="../images/titan/titan_03.jpg"></td>
+      <td><img src="../images/titan/titan_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Move up to Titan.</p><p>A formation of boulders will spawn on the opposite side of the arena with a hole on either the left or the right.</p><p>Position yourself just slightly to the left or right of Titan to get knocked back into the hole.</p></td>
-	  <td><img src="../images/titan/titan_04.jpg"><img src="../images/titan/titan_knockback.jpg"></td>
+      <td><img src="../images/titan/titan_04.jpg"><img src="../images/titan/titan_knockback.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Knockback.</p><p>This cannot be nullified with Arm's Length/Surecast.</p></td>
-	  <td><img src="../images/titan/titan_05.jpg"></td>
+      <td><img src="../images/titan/titan_05.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Three random players (excluding the MT) will be targeted by Granite Gaols while Titan readies a set of Landslides.</p><p>A boulder will drop in the gap that was made earlier and explode. The goal is to make a chain of boulders to connect Titan to that exploding boulder.</p><p><b>Gaoled players need to dodge this Landslide.</b></p></td>
-	  <td><img src="../images/titan/titan_06.jpg"></td>
+      <td><img src="../images/titan/titan_06.jpg"></td>
   </tr>
   <tr>
     <td><p><b>7.</b> Titan will do a second Landslide while the bomb boulders explode.</p><p>Gaoled players will not need to dodge this Landslide, but will need to join the party on Titan's left as soon as their Gaol explodes as a sludge puddle will be left behind.</p></td>

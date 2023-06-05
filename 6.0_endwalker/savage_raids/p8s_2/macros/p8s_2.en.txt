@@ -5,7 +5,7 @@
 　　H1　　H2　　　　D2　H1　D2　　players
 　　D3 ST D4　　　　　 D1　D1
 　■ Stack 1st　　　　D3　H2　D3
-　　Dodge West　　　　D4　D4 
+　　Dodge West　　　　D4　D4
 　■ Fire baits (②④ positions)
 　　②/①　　①/②　T/H West：MT > ST > H1 > H2
 　　④/③　　③/④　DPS East：D1 > D2 > D3 > D4
