@@ -19,7 +19,7 @@ enable_copy_code_button: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-callouts_level: quiet # or loud
+callouts_level: loud # or quiet
 callouts:
   highlight:
     color: yellow
