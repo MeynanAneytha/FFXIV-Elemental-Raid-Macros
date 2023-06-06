@@ -13,13 +13,15 @@ PF uses [Inumaru's strat](https://youtu.be/BHMjrxpZb7k) as a base, but puts Dark
 
 English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see below).
 
-### Things to check on Party Finder
-
-- Check the positions for the transition *(older macros may have different positioning)*
+{: .warning-title}
+> Things to check on Party Finder
+>
+>- Check the positions for the transition *(older macros may have different positioning)*
 
 ## English
 
 This is the macro often used in **English** parties. In particular, Firestorms of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
+
 ```
 {% include_relative macros/p3s_tuufless.en.txt %}
 ```
@@ -36,6 +38,7 @@ This is the macro often used in **English** parties. In particular, Firestorms o
 ## Japanese
 
 This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese** parties.
+
 ```
 {% include_relative macros/p3s_inumaru.jp.txt %}
 ```
@@ -76,6 +79,7 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese
 　　D3　　　D4　　1st→D1D4　　2nd→MTH2
 　　　H1　H2　　　3rd→STH1　　4th→D2D3
 ```
+
 The first Experimental Gloryplume always starts with the four explosions around the outside of the arena. We use these four explosions to determine where everyone is spreading.
 
 For example, if the first two explosions were the ones below (east and west), then the final spread positions for the black orbs spread would look like:

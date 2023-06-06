@@ -13,9 +13,10 @@ PF uses Hamkatsu's strat for P2S:
 
 {% include youtube.html id="KJZNVq_aVzI" %}
 
-### Things to check on Party Finder
-
-- Check whether the party plans to Tank LB3 the final Channeling Overflow + Coherence combo.
+{: .warning-title}
+> Things to check on Party Finder
+>
+> - Check whether the party plans to Tank LB3 the final Channeling Overflow + Coherence combo.
 
 ## English
 

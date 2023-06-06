@@ -13,21 +13,24 @@ There are currently two main strats that are going around- the FFO strat, and Nu
 
 Both strats are identical, *except* for how Flamerake is handled and where the party stacks during Sweeping Immolation.
 
-### Things to check on Party Finder
-
-- Check how Flamerake is being resolved.
-- Check the stack/spread positions for Sweeping Immolation.
+{: .warning-title }
+> Things to check on Party Finder
+>
+> - Check how Flamerake is being resolved.
+> - Check the stack/spread positions for Sweeping Immolation.
 
 ## FFO strat
 
 The following is the FFO macro for Rubicante EX. It's the macro that best approximates what *actually* gets done in PF, and is the one I would like to use.
 
 ### Japanese
+
 ```
 {% include_relative macros/rubicante_ffo.jp.txt %}
 ```
 
 ### English
+
 ```
 {% include_relative macros/rubicante_ffo.en.txt %}
 ```
@@ -67,11 +70,13 @@ These macros are from [Game8](https://game8.jp/ff14/507079) which follows Nukema
 {% include youtube.html id="uWR-SoZ4hFw" %}
 
 ### Japanese
+
 ```
 {% include_relative macros/rubicante_g8.jp.txt %}
 ```
 
 ### English
+
 ```
 {% include_relative macros/rubicante_g8.en.txt %}
 ```

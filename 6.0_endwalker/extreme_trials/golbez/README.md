@@ -14,17 +14,18 @@ There are two strats that are going around:
 1. [Game8 (Modified Hamkatsu)](#game8-modified-hamkatsu) *(this is by far the more common strat)*
 2. [FFO (Modified Nukemaru)](#ffo-modified-nukemaru)
 
-### Things to check
-
-Check the following things:
-
-1. How the groups are split for Void Stardust.
-  - Game8/Hamkatsu puts the **MT group north, ST group south**.
-  - Nukemaru/FFO puts the **MT group west, ST group east**.
-2. The stack positions during Terrastorm + Arctic Assault.
-  - Game8/Hamkatsu puts the **MT group outside, ST group inside**.
-  - Nukemaru/FFO puts the **MT group inside, ST group outside**.
-  - The FFO melee uptime variant puts **melee inside** (MTH1D1D2), and **ranged outside** (STH2D3D4).
+{: .warning-title}
+> Things to check
+>
+> Check the following things:
+>
+>1. How the groups are split for Void Stardust.
+>   - Game8/Hamkatsu puts the **MT group north, ST group south**.
+>   - Nukemaru/FFO puts the **MT group west, ST group east**.
+>2. The stack positions during Terrastorm + Arctic Assault.
+>   - Game8/Hamkatsu puts the **MT group outside, ST group inside**.
+>   - Nukemaru/FFO puts the **MT group inside, ST group outside**.
+>   - The FFO melee uptime variant puts **melee inside** (MTH1D1D2), and **ranged outside** (STH2D3D4).
 
 To summarize:
 
@@ -41,6 +42,7 @@ To summarize:
 *N.B: Hamkatsu has released a [follow-up video](https://youtu.be/uqJI2jL-8rw) where he updated the Gale Sphere positions to melee-in, ranged-out.
 
 The key points to note are:
+
 - Void Stardust splits are **North/South**.
 - The MT group is **outside** for Terrastorm + Arctic Assault + stacks.
 
@@ -66,6 +68,7 @@ If you take Nukemaru's strat and also update the Gale Sphere positions like the 
 *(English subtitled)*
 
 The key points to note are:
+
 - Void Stardust splits are **East/West**.
 - The MT group is **inside** for Terrastorm + Arctic Assault + stacks.
 
@@ -93,12 +96,14 @@ Game8/Hamkatsu uses the following markers:
 - `ABCD` are for orientation.
 - The `1` marker in the middle is for the healer knockback position.
 ![](images/markers1.jpg)
+
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
 {"Name":"Golbez EX","MapID":950,"A":{"X":100.0,"Y":0.029,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.029,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.029,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.029,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.029,"Z":100.0,"ID":4,"Active":true},"Two":{"X":100.0,"Y":0.029,"Z":100.0,"ID":5,"Active":false},"Three":{"X":100.0,"Y":0.029,"Z":100.0,"ID":6,"Active":false},"Four":{"X":100.0,"Y":0.029,"Z":100.0,"ID":7,"Active":false}}
 ```
+
 </details>
 
 You can use these markers instead:
@@ -106,12 +111,14 @@ You can use these markers instead:
 - `ABCD` are for orientation.
 - The `1234` markers demarcate the boundaries of the Gale Force line AoEs (markers are *not* safe), and players can stand on the markers to get knocked back to the towers.
 ![](images/markers2.jpg)
+
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
 {"Name":"Golbez EX","MapID":950,"A":{"X":100.0,"Y":0.029,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.029,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.029,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.029,"Z":100.0,"ID":3,"Active":true}, "One":{"X":103.9,"Y":0.029,"Z":96.1,"ID":5,"Active":true}, "Two":{"X":103.9,"Y":0.029,"Z":103.9,"ID":7,"Active":true}, "Three":{"X":96.1,"Y":0.029,"Z":103.9,"ID":6,"Active":true}, "Four":{"X":96.1,"Y":0.029,"Z":96.1,"ID":4,"Active":true}}
 ```
+
 </details>
 
 ## Timeline

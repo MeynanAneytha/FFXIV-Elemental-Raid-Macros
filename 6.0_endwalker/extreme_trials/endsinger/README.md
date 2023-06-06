@@ -16,11 +16,13 @@ PF largely follows Nukemaru's guide:
 ## Japanese
 
 This is the [game8 macro](https://game8.jp/ff14/446913) that's being used:
+
 ```
 {% include_relative macros/endsinger.jp.txt %}
 ```
 
 ## English
+
 ```
 {% include_relative macros/endsinger.en.txt %}
 ```
