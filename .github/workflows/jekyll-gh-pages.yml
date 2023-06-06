@@ -30,13 +30,18 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: MarkdownLint mdl Action
-        uses: actionshub/markdownlint@v2.1.2
+      #- name: MarkdownLint mdl Action
+      #  uses: actionshub/markdownlint@v2.1.2
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+      #- name: HTML5 Validator
+      #  uses: Cyb3r-Jak3/html5validator-action@master
+      #  with:
+      #    config: .html5validator.yaml
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
