@@ -20,34 +20,37 @@ Elemental's DSR PF strat can be broken down as follows:
 - [**Double Dragons**](en/06_double_dragons.md): △, DTTMR, Fixed WB2 *or* 5-1 WB2s
 - [**Dragonking Thordan**](en/07_dragonking_thordan.md): All 3-3-2
 
-### BiS Notes
-
-- Dragonsong's Reprise is the current Ultimate, and is **not** outgeared yet.
-    - BiS will be a mix of i600 gear, and i605 gear from Lapis Manalis.
-
-Looking towards the future:
-
-- Dragonsong's Reprise will not be outgeared until **i730** gear is available.
-- Relic weapons (when they arrive) will have their substats capped at **269**.
+{: .note-title}
+> BiS Notes
+>
+> - Dragonsong's Reprise is the current Ultimate, and is **not** outgeared yet.
+>   - BiS will be a mix of i600 gear, and i605 gear from Lapis Manalis.
+>
+> Looking towards the future:
+>
+> - Dragonsong's Reprise will not be outgeared until **i730** gear is available.
+> - Relic weapons (when they arrive) will have their substats capped at **269**.
 
 ![](images/dsr_cheatsheet.jpg)
 *(Shortened link: [https://cutt.ly/EleDC_DSR_summary](images/dsr_cheatsheet.jpg))*
 
-# Ser Adelphel and Ser Grinnaux
+## Ser Adelphel and Ser Grinnaux
 
 Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, there are two sets of markers and macros to use for this fight.
 
-### Things to check on Party Finder
+{: .warning-title}
+> Things to check on Party Finder
+>
+> - Check the marker order for Hyperdimensional Slash (some groups do N→S).
+> - Check the Playstation positions (there are many variants).
 
-- Check the marker order for Hyperdimensional Slash (some groups do N→S).
-- Check the Playstation positions (there are many variants).
+### English
 
-## English
 ```
 {% include_relative macros/dsr_1.en.txt %}
 ```
 
-## Markers
+### Markers
 
 All markers are used to bait Hyperdimensional Slashes (black orbs).
 
@@ -61,16 +64,17 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 
 </details>
 
-# King Thordan
+## King Thordan
 
 This is the macro for the bulk of the fight.
 
-## English
+### English
+
 ```
 {% include_relative macros/dsr_2.en.txt %}
 ```
 
-## Markers
+### Markers
 
 If you are doing the fixed Wyrmsbreath 2 strat, I recommend you use the "outer" markers as the tanks can use the intercardinal markers for reference on where to stand.
 

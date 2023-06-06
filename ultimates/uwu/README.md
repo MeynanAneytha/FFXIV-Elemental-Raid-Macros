@@ -25,17 +25,18 @@ The various phases can be broken down as follows:
 - [**Ultimate Suppression**](en/06_suppression.md): Fan Suppression
 - [**Primal Roulette**](en/07_primal_roulette.md)
 
-### BiS Notes
-
-- Any gear at or above **i500** will have their substats capped.
-- Relic weapons will have their substats capped at **136**.
-- The lowest potions you can use and still get maximum benefits are **HQ Grade 4 Tinctures**.
+{: .note-title}
+> BiS Notes
+>
+> - Any gear at or above **i500** will have their substats capped.
+> - Relic weapons will have their substats capped at **136**.
+> - The lowest potions you can use and still get maximum benefits are **HQ > Grade 4 Tinctures**.
 
 ## Things to note
 
 - There are edge cases to consider if you have a PLD or GNB and skipping Ifrit dashes are a possibility.
-    - If you **skip** Ifrit dashes, there is about **6:30** between Ifrit's *first* set of Incinerates and the Homing Lasers after Ultimate Predation (PLD cannot invuln both).
-    - If you **don't skip** Ifrit's dashes, there is about **5:40** between Ifrit's *second* set of Incinerates and the Homing Lasers after Ultimate Predation (GNB and PLD cannot invuln both).
+  - If you **skip** Ifrit dashes, there is about **6:30** between Ifrit's *first* set of Incinerates and the Homing Lasers after Ultimate Predation (PLD cannot invuln both).
+  - If you **don't skip** Ifrit's dashes, there is about **5:40** between Ifrit's *second* set of Incinerates and the Homing Lasers after Ultimate Predation (GNB and PLD cannot invuln both).
 - You can fix the tank invuln sequence in Ultima by choosing to tank swap Ifrit's second set of Incinerates instead of using the MT invuln there (although this isn't usually practiced).
 
 ## English
@@ -55,15 +56,19 @@ The various phases can be broken down as follows:
 - `ABCD`： Orientation.
 
 **Garuda:**
+
 - `4`： Party stack during the two Mistrel Songs ("midruda")
 
 **Ifrit:**
+
 - `ABCD` demarcates the cardinal positions (dodging the first Crimson Charge)
 
 **Titan:**
+
 - `ABCD` and `1`: Titan Gaols.
 
 **Ultima:**
+
 - `3`: Dodging Crimson Charges during Annihilation and the Primal Roulette.
 - `4`: Granite Gaol during Suppression.
 - `B`: Fireball stack during Suppression.
@@ -86,7 +91,7 @@ By executing a mechanic in a particular (generally harder) manner, the boss will
 
 When a boss gets four stacks of "Aetherically Charged", they become "Woken", which does the following:
 
-* Certain attacks are changed or modified when the boss is woken.
-* When defeated, a woken boss will leave behind a light puddle that will give a player a "Beyond Limits" buff when stepped on.
-* When a player with "Beyond Limits" uses an LB3, the buff will be consumed and the LB gauge refilled to LB3.
-* A caster, a healer, and a melee **must** have this buff to clear the transition to Ultima Weapon.
+- Certain attacks are changed or modified when the boss is woken.
+- When defeated, a woken boss will leave behind a light puddle that will give a player a "Beyond Limits" buff when stepped on.
+- When a player with "Beyond Limits" uses an LB3, the buff will be consumed and the LB gauge refilled to LB3.
+- A caster, a healer, and a melee **must** have this buff to clear the transition to Ultima Weapon.

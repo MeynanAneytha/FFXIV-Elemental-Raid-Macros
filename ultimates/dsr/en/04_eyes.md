@@ -109,11 +109,12 @@ After Pure of Heart resolves, the Spear of the Fury becomes targetable, and cast
 
 If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
 
-### Notes
-- The first two Brightwind hits on the healers will be covered by the Tank LB3.
-- In Phase 1, the pulsing AoE damage from the Spear ends early when Haurchefant is killed. This time around, Haurchefant stays alive so the pulsing AoE damage will continue until Pure of Heart resolves.
-- Haurchefant will take heavy damage from Pure of Heart, and will need to be roughly 65% health to survive.
-- Benediction **works** on Haurchefant.
+{: .note}
+>
+> - The first two Brightwind hits on the healers will be covered by the Tank LB3.
+> - In Phase 1, the pulsing AoE damage from the Spear ends early when Haurchefant is killed. This time around, Haurchefant stays alive so the pulsing AoE damage will continue until Pure of Heart resolves.
+> - Haurchefant will take heavy damage from Pure of Heart, and will need to be roughly 65% health to survive.
+> - Benediction **works** on Haurchefant.
 
 ## Frequently Asked Questions
 

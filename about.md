@@ -20,6 +20,7 @@ Remember, the ultimate goal of PF macros is to get eight people who have never p
 **If you want uptime, make a static.**
 
 **Tanks:**
+
 - Who MTs (main-tanks) and who STs (sub-tanks) generally follows this order:
 
     **MT** : WAR > DRK > GNB > PLD : **ST**
@@ -28,6 +29,7 @@ Remember, the ultimate goal of PF macros is to get eight people who have never p
 - A note on tank swaps: Sometimes, the "MT" position refers to the original maintank, and sometimes "whoever happens to be tanking the boss at the time". As a general rule, if where the boss faces is relevant, then "MT" will refer to whoever is currently tanking the boss.
 
 **Healers:**
+
 - **H1** is the "pure healer" (WHM, AST).
 - **H2** is the "barrier healer" (SCH, SGE).
 
@@ -47,11 +49,11 @@ Generally, PF recruitment will generally follow the following progression:
 - Practice○○/○○練習 : You will often see a mechanic in place of ○○, although 前半 is also common ("first half"). The focus is on learning the mechanic.
 - Stabilize○○/○○安定: An extension of the above, except you are expected to have reached the mechanic before and the aim is to resolve the mechanic consistently.
 - Aim to clear (A2C)/クリ目 : It is expected that you have made it to enrage at this point, and know all the mechanics. A couple words to look out for are:
-    - 未 (not yet);　e.g: "未消化" = "not yet done weeklies"
-    - 済 (already);　e.g: "クリア済" = "already cleared"
-    - 手伝いさん (helpers)
+  - 未 (not yet);　e.g: "未消化" = "not yet done weeklies"
+  - 済 (already);　e.g: "クリア済" = "already cleared"
+  - 手伝いさん (helpers)
 - Weekly clear/消化 : You'll often see additional stipulations, like the party disbanding after three wipes, or after 30 minutes. These aren't practice parties. At least, they're not supposed to be. -_-
-    - 3滅解散 - "disband after three wipes" is quite common with these parties.
+  - 3滅解散 - "disband after three wipes" is quite common with these parties.
 
 ## Loot rules
 

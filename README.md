@@ -18,18 +18,21 @@ Of course, there will probably be small differences between the macros here and 
 The current item level cap is **iLvl 665**.
 
 **Extreme Trials:**
+
 - **Golbez EX** - [The Voidcast Dais (Extreme)](6.0_endwalker/extreme_trials/golbez/README.md)
 
 **Unreal Trial:**
+
 - **Zurvan** - [Containment Bay Z1T9 (Unreal)](3.0_heavensward/extreme_trials/zurvan/README.md)
 
 **Savage Raids:**
+
 - **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s/README.md)
 - **P10S** - [Anabaseios: The Tenth Circle (Savage)](6.0_endwalker/savage_raids/p10s/README.md)
 - **P11S** - [Anabaseios: The Eleventh Circle (Savage)](6.0_endwalker/savage_raids/p11s/README.md)
 - **P12S** - Anabaseios: The Twelfth Circle (Savage)
-    - [Part 1](6.0_endwalker/savage_raids/p12s_1/README.md)
-    - [Part 2](6.0_endwalker/savage_raids/p12s_2/README.md)
+  - [Part 1](6.0_endwalker/savage_raids/p12s_1/README.md)
+  - [Part 2](6.0_endwalker/savage_raids/p12s_2/README.md)
 
 ## Ultimate Raids
 

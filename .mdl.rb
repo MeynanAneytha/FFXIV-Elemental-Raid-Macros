@@ -2,7 +2,7 @@
 all
 
 # Setting limit at 900 because of waymarks info
-rule 'MD013', :line_length => 900
+rule 'MD013', :line_length => 999
 
 # Allow in-line HTML - easier right now than specifying
 # each and every authorized tag

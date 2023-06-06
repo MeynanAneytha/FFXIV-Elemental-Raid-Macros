@@ -12,14 +12,15 @@ permalink: /ultimates/top/
 
 The PF strat is starting to settle.
 
-### BiS Notes
-
-- Use your i630 BiS.
-
-Looking towards the future:
-
-- The Omega Protocol will not be outgeared until **i760** gear is available.
-- Relic weapons (when they arrive) will have their substats capped at **287**.
+{: .note-title}
+> BiS Notes
+>
+> - Use your i630 BiS.
+>
+> Looking towards the future:
+>
+> - The Omega Protocol will not be outgeared until **i760** gear is available.
+> - Relic weapons (when they arrive) will have their substats capped at **287**.
 
 ![](images/top_cheatsheet.jpg)
 *(Shortened link: [https://cutt.ly/EleDC_TOP_summary](images/top_cheatsheet.jpg))*

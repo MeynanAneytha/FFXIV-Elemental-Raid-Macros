@@ -58,6 +58,7 @@ After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself
 </table>
 
 **Tips:**
+
 - Do not look for Thordan. Instead, look for the two (of three) knights that spawn closest to the center.
   - Thordan appears at his position last, giving you the least amount of time to find him.
   - The two knights will spawn while the Heavy Impacts are resolving (and Thordan is still in the center).

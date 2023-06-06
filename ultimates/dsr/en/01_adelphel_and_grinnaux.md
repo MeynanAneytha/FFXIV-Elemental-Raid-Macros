@@ -41,6 +41,7 @@ D□ H× H△</code></pre></td>
 ## Playstation
 
 The important positions here are the two N/S crosses, and the E/W circles. This will come up again in the Playstation 2 tethers in Death of the Heavens.
+
 ```
 【Playstation chains】
 　　D△  T× T□

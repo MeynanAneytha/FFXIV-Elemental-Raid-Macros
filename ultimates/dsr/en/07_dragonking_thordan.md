@@ -72,8 +72,8 @@ If any extra mitigations are available, it's recommended they be slotted into ei
 ## Trinity
 
 - It's easy for the tanks to lose track of who is supposed to be tanking the boss. Some things to help keep track are:
-    - Add text to a Provoke macro so the chat log has a record of who last Provoked.
-    - Look at the time remaining on the two Light/Dark debuff timers- **if the Dark debuff is lower than Light (or if you have no Dark debuff), you should be holding aggro.**
+  - Add text to a Provoke macro so the chat log has a record of who last Provoked.
+  - Look at the time remaining on the two Light/Dark debuff timers- **if the Dark debuff is lower than Light (or if you have no Dark debuff), you should be holding aggro.**
 - We put D1 and D2 after Exaflares as they will naturally be the closest if they do an uptime dodge.
 - We put H1 and H2 after Gigaflares as healers are the squishiest and there are only two Gigaflare's Edge.
 

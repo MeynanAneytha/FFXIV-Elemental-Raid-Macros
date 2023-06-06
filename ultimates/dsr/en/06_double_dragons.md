@@ -62,6 +62,7 @@ We pass "DTTMR", or in other words:
 ```
 DPS → MT → ST → D1/D2 → D3
 ```
+
 All passes happen in the center of the arena, except for the final pass after Touchdown (which is just done at the edge).
 
 ## First half

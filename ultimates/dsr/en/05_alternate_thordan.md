@@ -187,8 +187,9 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
   </tr>
 </table>
 
-## Notes
-- **Only WAR** can Holmgang the tankbuster after Wrath of the Heavens and still invuln P6's Cauterize.
+{: .note}
+>
+> - **Only WAR** can Holmgang the tankbuster after Wrath of the Heavens and still invuln P6's Cauterize.
 
 ## Frequently Asked Questions
 

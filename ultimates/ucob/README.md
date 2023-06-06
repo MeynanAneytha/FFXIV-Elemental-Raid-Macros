@@ -15,6 +15,7 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 - Neurolinks are placed in an inverted triangle.
 - Blackfire Trio towers are flipped for tanks and healers (healers take the tower closer to the Megaflare stack).
 - Heavensfall Trio spread positions are different (both tanks always go towards Nael, both ranged always opposite Nael).
+
 <table>
   <tr>
     <td><img src="images/03_bahamut/heavensfall_02a.jpg"></td>
@@ -25,11 +26,12 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 
 - Tenstrike Trio is done with one safe spot (the south marker) instead of two.
 
-### BiS Notes
-
-- Any gear at or above **i470** will have their substats capped.
-- Relic weapons will have their substats capped at **127**.
-- The lowest potions you can use and still get maximum benefits are **HQ Grade 3 Tinctures**.
+{: .note-title}
+> BiS Notes
+>
+> - Any gear at or above **i470** will have their substats capped.
+> - Relic weapons will have their substats capped at **127**.
+> - The lowest potions you can use and still get maximum benefits are **HQ Grade 3 Tinctures**.
 
 ## English
 
@@ -46,20 +48,24 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 ## Markers
 
 **Twintania:**
+
 - `123`: Neurolink positions.
 - `3`: Stack position for transition to Nael.
 
 **Nael:**
+
 - `3`: Stack position for transition to Bahamut.
 - `4`: Stack position for Thermionic Beam, Fire tethers.
 
 **Bahamut Prime:**
+
 - The `ABCD` markers are for Earthshakers in Tenstrike Trio.
 - `123`: Spawn positions for bosses during Fellruin Trio. Knockback boundary for Heavensfall Trio.
 - `3`: Safe spot for Tenstrike Trio. It should be a square for players to communicate their second Earthshaker positions.
 - `4`: Stack point at the start of Blackfire Trio and the end of Heavensfall Trio. It is also used to see whether Bahamut is on a cardinal or intercardinal position during Grand Octet (edge = cardinal, corner = intercardinal).
 
 **Golden Bahamut:**
+
 - `3`: Where tanks will stack for the first Akh Morn in Golden Bahamut.
 
 ![](images/markers.jpg)

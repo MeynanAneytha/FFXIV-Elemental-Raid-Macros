@@ -346,9 +346,11 @@ After the second Irresistable Grace, Perfect Alexander will then proceed to cast
 Seven towers/jails appear and resolve, starting from the NE and going clockwise around Perfect Alexander.
 
 The jails are resolved with the lowest DPS players going first.
+
 ```
 H2 > H1 > ST > MT > D3 > D4 > D2 > D1
 ```
+
 Note that DoTs will continue to tick even after the player has been imprisoned.
 
 ## Frequently Asked Questions
