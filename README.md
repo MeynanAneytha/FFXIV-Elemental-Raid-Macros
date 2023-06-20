@@ -1,43 +1,34 @@
----
-layout: default
-title: Home
-nav_order: 1
-permalink: /
----
+# How to contribute
 
-# FFXIV Elemental Raid Macros
+## Project structure
 
-This repository is a collection of macros (and my notes) often encountered in the Elemental Data Center (DC).
+The website content is located in the `src` folder.
+Most configuration files are at the root of this repository.
 
-Because Elemental is ultimately a Japanese DC, these macros are for **Japanese** PF strategies. Keep that in mind that when watching (English) videos/reading guides- the strategies used may have some differences from the ones here.
+## Dev prerequisites
 
-Of course, there will probably be small differences between the macros here and the ones you may encounter in PF- use the ones here as a base to work with.
+Make sure you have Ruby, Rubygems and [Bundler](https://bundler.io/) installed on your system.
 
-## Current content (Patch 6.4)
+Before you run commands in the repository, install the dependencies by running `bundle install` once the previous prerequisites are met.
 
-The current item level cap is **iLvl 665**.
+### Git hooks and pre-commit
 
-**Extreme Trials:**
+If you also have python installed on your system, you can make use of `pre-commit`.
 
-- **Golbez EX** - [The Voidcast Dais (Extreme)](6.0_endwalker/extreme_trials/golbez/README.md)
+To install pre-commit, follow its documentation : [here](https://pre-commit.com/#install)
 
-**Unreal Trial:**
+Once the command is installed and available, you can set up the pre-commit hooks for this repository by using the command:
 
-- **Zurvan** - [Containment Bay Z1T9 (Unreal)](3.0_heavensward/extreme_trials/zurvan/README.md)
+```
+pre-commit install
+```
 
-**Savage Raids:**
+Most of the features described later will thus be available and automatically triggered by a commit.
 
-- **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s/README.md)
-- **P10S** - [Anabaseios: The Tenth Circle (Savage)](6.0_endwalker/savage_raids/p10s/README.md)
-- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](6.0_endwalker/savage_raids/p11s/README.md)
-- **P12S** - Anabaseios: The Twelfth Circle (Savage)
-  - [Part 1](6.0_endwalker/savage_raids/p12s_1/README.md)
-  - [Part 2](6.0_endwalker/savage_raids/p12s_2/README.md)
+## Tests and checks
 
-## Ultimate Raids
+To run checks like HTML proofer to verify the site's content, you can use the following command:
 
-- **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ultimates/ucob/README.md)
-- **UWU** - [The Weapon's Refrain (Ultimate)](ultimates/uwu/README.md)
-- **TEA** - [The Epic of Alexander (Ultimate)](ultimates/tea/README.md)
-- **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr/README.md)
-- **TOP** - [The Omega Protocol (Ultimate)](ultimates/top/README.md)
+```
+bundle exec rake test
+```

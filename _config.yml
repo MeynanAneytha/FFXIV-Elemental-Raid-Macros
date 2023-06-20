@@ -1,7 +1,16 @@
-remote_theme: just-the-docs/just-the-docs@v0.5.1
+source: src
+
+repository: MeynanAneytha/FFXIV-Elemental-Raid-Macros
+
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile']
+markdown: kramdown
+remote_theme: just-the-docs/just-the-docs@v0.5.4
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-twitter-plugin
+  - jekyll-gist
+  - jekyll-github-metadata
 
 title: "FFXIV Elemental Raid Macros"
 description: "Final Fantasy XIV Elemental DC Raid Macros"
