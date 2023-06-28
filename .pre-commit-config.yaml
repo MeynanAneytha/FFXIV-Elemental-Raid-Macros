@@ -11,3 +11,14 @@ repos:
   - id: markdownlint
     files: \.(md|mdown|markdown)$
 
+- repo: local
+  hooks:
+    - id: bundle-install
+      name: Bundle install
+      pass_filenames: false
+      language: system
+      entry: bundle install
+    - id: rake-test
+      name: Rake Test
+      language: system
+      entry: bundle exec rake test
