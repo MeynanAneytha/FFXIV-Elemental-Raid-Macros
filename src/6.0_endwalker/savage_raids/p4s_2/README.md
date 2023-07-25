@@ -2,7 +2,7 @@
 layout: default
 title: P4S P2
 parent: Savage Raids
-nav_order: "04_2"
+nav_order: 5
 grand_parent: 6.0 Endwalker
 permalink: /6.0_endwalker/savage_raids/p4s_2/
 ---

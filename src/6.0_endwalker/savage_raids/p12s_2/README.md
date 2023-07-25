@@ -2,7 +2,7 @@
 layout: default
 title: P12S P2
 parent: Savage Raids
-nav_order: "12_2"
+nav_order: 15
 grand_parent: 6.0 Endwalker
 permalink: /6.0_endwalker/savage_raids/p12s_2/
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: O4S P1
 parent: Savage Raids
-nav_order: "04_1"
+nav_order: 4
 grand_parent: 4.0 Stormblood
 permalink: /4.0_stormblood/savage_raids/o4s_1/
 ---

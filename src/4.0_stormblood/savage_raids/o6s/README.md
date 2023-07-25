@@ -2,7 +2,7 @@
 layout: default
 title: O6S
 parent: Savage Raids
-nav_order: "06"
+nav_order: 7
 grand_parent: 4.0 Stormblood
 permalink: /4.0_stormblood/savage_raids/o6s/
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: P5S
 parent: Savage Raids
-nav_order: "05"
+nav_order: 6
 grand_parent: 6.0 Endwalker
 permalink: /6.0_endwalker/savage_raids/p5s/
 ---

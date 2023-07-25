@@ -2,7 +2,7 @@
 layout: default
 title: O3S
 parent: Savage Raids
-nav_order: "03"
+nav_order: 3
 grand_parent: 4.0 Stormblood
 permalink: /4.0_stormblood/savage_raids/o3s/
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: A3S
 parent: Savage Raids
-nav_order: "03"
+nav_order: 3
 grand_parent: 3.0 Heavensward
 permalink: /3.0_heavensward/savage_raids/a3s/
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: O11S
 parent: Savage Raids
-nav_order: "11"
+nav_order: 13
 grand_parent: 4.0 Stormblood
 permalink: /4.0_stormblood/savage_raids/o11s/
 ---

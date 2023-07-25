@@ -2,7 +2,7 @@
 layout: default
 title: A8S
 parent: Savage Raids
-nav_order: "08"
+nav_order: 8
 grand_parent: 3.0 Heavensward
 permalink: /3.0_heavensward/savage_raids/a8s/
 ---

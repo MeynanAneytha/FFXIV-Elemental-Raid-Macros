@@ -2,7 +2,7 @@
 layout: default
 title: P9S
 parent: Savage Raids
-nav_order: "09"
+nav_order: 11
 grand_parent: 6.0 Endwalker
 permalink: /6.0_endwalker/savage_raids/p9s/
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: P11S
 parent: Savage Raids
-nav_order: "11"
+nav_order: 13
 grand_parent: 6.0 Endwalker
 permalink: /6.0_endwalker/savage_raids/p11s/
 ---

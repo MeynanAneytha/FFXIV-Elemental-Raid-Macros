@@ -2,7 +2,7 @@
 layout: default
 title: P1S
 parent: Savage Raids
-nav_order: "01"
+nav_order: 1
 grand_parent: 6.0 Endwalker
 permalink: /6.0_endwalker/savage_raids/p1s/
 ---

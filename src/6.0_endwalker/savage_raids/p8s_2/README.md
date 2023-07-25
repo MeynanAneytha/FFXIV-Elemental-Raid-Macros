@@ -2,7 +2,7 @@
 layout: default
 title: P8S P2
 parent: Savage Raids
-nav_order: "08_2"
+nav_order: 10
 grand_parent: 6.0 Endwalker
 permalink: /6.0_endwalker/savage_raids/p8s_2/
 ---
