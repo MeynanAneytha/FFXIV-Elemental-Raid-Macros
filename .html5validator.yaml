@@ -1,3 +1,0 @@
-root: ./_site
-ignore_re:
-  - 'An "img" element must have an "alt" attribute.*'
